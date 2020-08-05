@@ -1,4 +1,4 @@
-# Thesis-Simulation-Results
+# Thesis-Results
 This is the collection of simulation results from my Phd Thesis work titled: "A Multi Objective Beacon Placement Strategy for 3D Point Cloud Representation of Indoor Environments"
 ----
 RAVI SHARMA
